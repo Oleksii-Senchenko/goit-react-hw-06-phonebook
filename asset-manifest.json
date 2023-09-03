@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/css/main.6abf9fe5.css",
+    "main.js": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/js/main.6831e57a.js",
     "index.html": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/index.html",
-    "main.7acaea2f.css.map": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/js/main.07d3183d.js.map"
+    "main.6abf9fe5.css.map": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/css/main.6abf9fe5.css.map",
+    "main.6831e57a.js.map": "/Oleksii-Senchenko/goit-react-hw-06-phonebook/static/js/main.6831e57a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.6abf9fe5.css",
+    "static/js/main.6831e57a.js"
   ]
 }
